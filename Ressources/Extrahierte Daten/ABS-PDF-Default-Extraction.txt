@@ -1,0 +1,367 @@
+Antiinfektivatherapie - Leitfaden (ABS)
+
+Antiinfektivatherapie - Leitfaden
+• Intraabdomonelle Infektionen
+• Appendizitis
+• Cholangitis / Cholezystitis
+• Diverticulitis akut
+• Leberabzess
+• Pakreatitis akut – nekrotisierend
+• Peritonitis spontan, bakteriell
+• Peritonitis sekundär, ambulant erworben
+• Peritonitis spontan, nosokomial erworben
+• Clostridium difficile assoziierte Diarrhoe (CDAD)
+• Risikofaktoren und Prophylaxe
+• Diagnostik
+• Gezielte Therapie nach Erst- und Folgeinfektionen
+• Infektionen der Niere und des Urogenitaltraktes
+• Zystitis
+• Pyelonephritis
+• Urosepsis
+• Prostatitis
+• Peritonitis
+• Fournier‘sche Gangrän
+• Inhalt
+• Impressum
+• Verwendete Abkürzungen
+• Einleitung
+• Sepsis
+• Übersicht und Diagnostik
+• Initialtherapie
+• Meningitis
+• Herpes Enzephalitis
+• Ambulant erworbene Pneumonie (CAP)
+• Übersicht und Diagnostik
+• Kalkulierte Initialtherapie
+• Gezielte Therapie nach Erregersicherung
+• Nosokomiale erworbene Pneumonie (HAP)
+• Übersicht und Diagnostik
+• Kalkulierte Initialtherapie
+• Gezielte Therapie nach Erregersicherung
+2
+
+Antiinfektivatherapie - Leitfaden
+• Neutropenisches Fieber
+• Tuberkulose
+• Invasive Pilzinfektion
+• Empfehlung der Fachgesellschaften unter
+Berücksichtigung der lokalen Resistenzlage
+• Erregernachweis und Therapie entsprechend
+Antibiogramm
+• Reserveantibiotika
+• Allgemeine Informationen
+• Verantwortungsmatrix behandelnder Arzt
+• Antibiotika
+• Vorrätige Antibiotika
+• Normdosen und Empfehlung EUCAST
+• Dosisanpassung
+• bei Niereninssufizienz
+• bei Leberinsuffizienz
+• Therapeutisches Drug Monitoring (TDM)
+• Kontinuierliche Gabe auf Intensivstation
+• Häufige Nebenwirkungen
+• Häufige Interaktionen
+• Literatur
+• Inhalt
+• Gynäkologische Infektionen
+• Adnexitis
+• Senologische Infektionen
+• Mastitis
+• Endokarditis
+• Kalkulierte Therapie
+• Gezielte Therapie nach Erregersicherung
+• Staph. aureus Bakteriämie
+• Katheter assoziierte Infektionen
+• Haut- und Weichteilinfektionen
+• Bissverletzung
+• DiabetischerFuß
+• Nekrotisierende Fasziitis
+• Erysipel
+• Phlegmone
+• Staph. aureus Bakteriämie
+• Spondylodiszitis
+• Periprothetische Infektionen
+3
+
+CAP - Ambulant erworbene Pneumonie
+Diagnostik
+• Atemfrequenz, SpO2,HF,RR, Temp., Rö Thorax, thorakale Sonographie
+• 2 x 2 BK, PCT
+• immer: Legionellen und -Pneumokokken-Antigen im Urin
+• Sputum, Trachealsekret
+• Pleurapunktion bei relevantem Erguss zum Ausschluss Pleuraempyem
+Labor: Protein, LDH, Glukose, pH, Mibi:Kultur
+• Saisonal: Influenza PCR, evtl. RSV-PCR, Covid-PCR: NNR-Abstrich (Tupfer ohne Gel)
+CRB-65-Punkte 0 1-2 3-4
+Letalität niedrig erhöht hoch
+↓ ↓ ↓
+Management ambulant Klinik/Abklärung Intensivstation
+CRB – 65 Index
+• Confusion (Desorientiertheit)
+• Respiratory rate (Atemfreq. > 30/min)
+• Blood pressure (Blutdr. syst. <90 mmHg
+und/oder diast. < 60 mmHg)
+• Age (Alter > 65 Jahre)
+Weitere Kriterien für schwere Pneumonie
+SpO2 < 90, Kreislaufinstabilität
+Pseudomonasrisiko bei schwerer COPD (Gold IV), Brochiektasien, PEG
+Typische Erreger Definierte Komorbiditäten
+chronische Herzinsuffizienz, ZNS-Erkrankung
+mit Schluckstörung Bettlägerigkelt, PEG
+Physiologische Flora oder
+nicht pathogene Besiedlung
+Streptococcus pneumoniae
+Haemophilus influenzae
+bei < 60 Jahre = Mycoplasma
+pneumoniae
+Streptococcus pneumoniae,
+Haemophilus inftuenzae, Staphylococcus aureus,
+Enterobakterien(E. coli, Klebslella pneumoniae),
+Pseudomonas
+vergrünende Streptokokken, Neisserien,
+Corynebakterien, Staphylococcus
+epldermldis,
+Candida spp., Haemophllus spp.,
+Enterokokken
+4
+
+CAP - Kalkulierte Initialtherapie – Teil 1
+Mittel der Wahl Bei Penicilinallergie
+LA/SA: leichte/schwere Allergie
+Therapiedauer
+Leichte Pneumonie Amoxicillin 3 x 1000mg p.o. Azithromycin 1 x 500 mg p.o. 3 Tage
+Leichte Pneumonie
+mit def. Komorbidität
+Amoxicillin/Clavulansäure
+3 x 825/125 mg p.o.
+Moxifloxacin 1 x 400 mg p.o. 5 Tage
+Leichte Pneumonie
+mit
+Pseudomonas Risiko
+Amoxicillin/Clavulansäure
+3 x 825/125 mg p.o.
+und
+Ciprofloxacin 2x500-750mg p.o.
+Levofloxacin 1 x 500 mg p.o. 5 Tage
+Mittelschwere
+Pneumonie
+Ampicillin/Sulbactam 3 bis 4 x 3g i.v.
+und
+Azithromycin 1x500mg p.o. 3d
+oder
+Clarithromycin 2x500mg p.o. 3d
+LA: Cefuroxim 3 bis 4 x 1,5g i.v.
+und Azithromycin 1x500 mg p.o. 3d
+SA: Moxifloxacin 1x400 mg p.o.
+7 Tage
+Oralisierung n. klin. Besserung
+Amoxi- und Clavulansäure
+3 x 825 / 3 x 125mg p.o.
+LA/SA:Moxifloxacin 1x400 mg p.o.
+Azithromycin 1 x 500mg p.o. 3d
+CAVE Clarithromycin: falls kein Nachweis von atypischen Pneumonie-Erregern: Clarithromycin absetzen !
+Wechselwirkungen und Kontraindikationen von Clarithromycin beachten! (Gegebenenfalls lnteraktionscheck)
+5
+
+CAP - Kalkulierte Initialtherapie - Teil 2
+Mittel der Wahl Bei Penicilinallergie
+LA/SA: leichte/schwere Allergie
+Therapiedauer
+Schwere Pneumonie Piperacillin/Tazobactam 4 x 4,5g i.v.
+Azithromycin 1 x 500 mg p.o. 3d
+oder
+Clarithromycin 2 x 500 mg p.o. 3d
+LA: Ceftriaxon 1 x 2 g i.v.
+und Azithromycin 1 x 500 mg p.o.
+oder Clarithromycin 2 x 500 mg p.o.
+SA: Moxifloxacin 1 x 400 mg i.v.
+und Linezolid 2 x 600 mg i.v.
+(sept. Schock)
+7 Tage
+ggf.
+Oralisierung nach klinischer
+Besserung
+(nach Resistogramm)
+Schwere Pneumonie
+mit
+Pseudomonas-Risiko
+Piperacillin/Tazobactam 4 x 4,5g i.v. LA: Meropenem 3 x 1 g i.v.
+SA: Levofloxacin 2 x 500 mg i.v.
+7 Tage
+Aspirationspneumon.
+oder
+Retentionspneumonie
+Ampicillin/Sulbactam 3 bis 4 x 3g i.v. LA: Ceftriaxon 1 x 2 g i.v.
+und Clindamycin 3x600 mg i.v. /p.o.
+SA: Moxifloxacin 1x400 mg i.v. /p.o.
+7 Tage
+CAVE Clarithromycin: falls kein Nachweis von atypischen Pneumonie-Erregern: Clarithromycin absetzen !
+Wechselwirkungen und Kontraindikationen von Clarithromycin beachten! (Gegebenenfalls lnteraktionscheck)
+6
+
+CAP - Gezielte Therapie nach Erregersicherung – Teil 1
+Erreger Mittel der Wahl Bei Penicilinallergie
+LA/SA: leichte/schwere Allergie
+Therapiedauer
+Streptococcus pneumoniae
+mit Bakteriämie
+Amoxicillin 3 x 1000 mg p.o.
+oder Penicilin G 3 x 10 Mio I.E. i.v.
+und
+Azithromycin 1 x 500 mg p.o. 3 d
+LA: Cefazolin 3 x 2g i.v.
+SA: Moxifloxacin 1 x 400 mg p.o. /i.v.
+Staph.aureus (MSSA) Flucloxacillin 4 bis 6 x 2 g i.v. LA: Cefazolin 3 x 2g i.v.
+SA: Clindamycin 3 x 600 mg p.o. /i.v.
+Staph.aureus (MRSA) Linezolid 2 x 600 mg p.o. / i.v. Vancomycin (Zielspiegel: 15 bis 20 μg/ml)
+oder Clindamycin 3 x 600 mg p.o. /i.v.
+Hämophilus influenzae Amoxicillin 3 x 1000 mg p.o.
+oder Ampicillin 3 bis 4 x 2g i.v.
+LA: Ceftriaxon 1 x 2g i.v.
+SA: Moxifloxacin 1 x 400 mg p.o. /i.v.
+Klebsiella pneumoniae Ceftriaxon 1 x 2g i.v. Ciprofloxacin 2 x 400 mg i.v.
+Pseudomonas aeruglnosa Piperacillin/Tazobactam 4 x 4,5g
+i.v.
+LA: Ceftazidim 3 x 2 g i.v.
+SA: Ciprofloxacin 2 x 400 mg i.v.
+Legionella pneumoniae Moxifloxacin 1 x 400 mg p.o. /i.v. Azithromycin 1 x 500 mg p.o. 7-10 Tage
+7
+
+CAP - Gezielte Therapie nach Erregersicherung – Teil 2
+Erreger Mittel der Wahl Bei Penicilinallergie
+LA/SA: leichte/schwere Allergie
+Therapiedauer
+Mycoplasma pneumoniae
+Chlamydophila pneumoniae
+Doxycyclin 1 x 200 mg p.o. Azithromycin 1 x 500 mg p.o.
+Moxifloxacin 1 x 400 mg p.o. /i.v.
+Pneumocystis jirovecii
+Pneumonie (PJP) PCR
+BAL/Sputum
+Leicht: TMP/SMX 4 x 1920 mg p.o
+Schwer: TMP 15-20 mg pro kg/KG d ( SMX 75-100 mg pro kg/KG d)
+verteilt auf 3-4 Einzeldosen (meist 4 x 4 oder 3 x 5 Ampullen je 480 mg i.v.)
+Oralsierung im Verlauf: Prednison 2 x 40 mg/d p.o. für 5 Tage,
+dann 1 x 40 mg/d p.o. für weitere 5 Tage,
+dann 1 x 20 mg/d p.o. für weitere 10 Tage
+21 Tage
+Aspergillus spp.
+Diagnostik: HR CT Thorax
+BAL: Galactomannan, PCR,
+Mikroskopie, Kultur
+Serum: Galactomannan, PCR,
+β-D-Glucan
+Voriconazol am Tag 1 = 2 x 6 mg je kg/KG
+ab Tag 2: 2 x 4 mg je kg/KG
+Spiegelmessung ab Tag 3 mit Zlelspiegel: 2 bis 5 μg/ml
+mind.
+2 Wochen i.v.
+dann
+3 Monate bis Jahre
+8
+
+HAP - Nosokomial erworbene Pneumonie
+Diagnostik
+• Atemfrequenz zählen ! SpO
+2
+, Labor, Rö.-Thorax, 2 x 2 Blutkulturen
+• immer: Legionellen und -Pneumokokken-Antigen im Urin
+• Sputum, Trachealsekret (sofort ins Labor Kühlschrank)
+• Pleurapunktion bei relevantem Erguss zum Ausschluss Pleuraempyem
+• Saisonal: Influenza PCR, evtl. RSV-PVR, Covid-PCR: NNR-Abstrich (Tupfer ohne Gel)
+• Galactomannan-AG aus BAL und Serum bei Immunsuppr., strukt. Lungen-, rheumat. Erkrankung
+• CT Thorax bei unklaren Verschattungen bzw therapierefraktären Infiltraten
+Definition
+• Neues oder progredientes Infiltrat
+und 2 von 3 der folgenden Kriterien sind positiv
+• Leukozyten > 10.000 / μl oder < 4.000 / μl
+• Fieber > 38,3 °C
+• Purulentes Sekret
+• Beginn > 48h nach Aufnahme im Krankenhaus
+oder stationäre Behandlung in den letzten 3 Monaten
+Differential-
+Diagnostik
+• Lungenarterienembolie (D-Dimere, Laktat)
+• Herzinsuffizienz (ggf. nt-proBNP)
+• Anderes
+• Alveoläre Hämorrhagie
+• Atelektase
+• Kryptogen organisierende Pneumonie
+9
+
+HAP - Risiken und Therapie
+Mittel der Wahl Bei Penicilinallergie
+LA/SA: leichte/schwere Allergie
+Therapiedauer
+Nosokomiale
+Pneumonie
+ohne Risikofaktoren
+Ampicillin/Sulbactam 3-4 x 3 g i.v.
+LA: Cefuroxim 3 x 1,5g i.v.
+SA: Moxifloxacin 1x400mg p.o./i.v.
+7 Tage ggf. kürzer n. Klinik
+Nosokomiale
+Pneumonie
+mit Risikofaktoren
+Piperacillin/Tazobactam 4 x 4,5 g i.v.
+LA: Cefepim 2 x 2g i.v.
+SA: Levofloxacin 2x500 mg p.o./i.v.
+7-8 Tage
+Nosokomiale
+Pneumonie
+mit Risikofaktoren
+und Risiko
+auf Pseudomonas
+und sept. Schock
+Piperacillin/Tazobactam 4 x 4,5 g i.v.
+und
+Ciprofloxacin 2x400 i.v.
+LA: Ceftazidim 3 x 2g i.v. und
+Levofloxacin 2x500 mg p.o./i.v.
+SA: Levofloxacin 2x500 mg p.o./i.v.und
+Fosfomycin 3x 5g i.v.
+7-8 Tage
+Risikofaktoren
+für ein erweitertes
+Erregerspektrum
+• Malnutrition
+• Strukturelle Lungenerkrankung
+• Chronische Dialyse
+• Tracheostoma
+• Hospitalisierung > 4 Tage mit AB-Therapie, evtl. Intensivstation, Langzeitpflegebehandlung
+Pseudomonas
+Risiko
+• COPD GOLD IV, Bronchiektasien, PEG, Invasive Beatmung
+Kalkulierte Initialtherapie (HAP)
+10
+
+HAP - Gezielte Therapie nach Erregersicherung
+Erreger Mittel der Wahl Bei Penicilinallergie
+LA/SA: leichte/schwere Allergie
+Therapiedauer
+Staph.aureus (MSSA) Flucloxacillin 4 bis 6 x 2 g i.v. LA: Cefazolin 3 x 2g i.v.
+SA: Linezolid 2 x 600 mg p.o. / i.v.
+oder
+Vancomycin
+(Zielspiegel: 15 bis 20 μg/ml)
+7-8 Tage
+bei Bakteriämie
+4 Wochen i.v.
+Staph.aureus (MRSA) Linezolid 2 x 600 mg p.o. / i.v.
+oder
+Vancomycin 2 x 15mg/kg KG
+(Zielspiegel: 15 bis 20 μg/ml)
+und/oder Rifampicin 2x600 mg i.v.
+7-8 Tage
+bei Bakteriämie
+4 Wochen i.v.
+Klebsiella pneumoniae Ceftriaxon 1 x 2g i.v. Ciprofloxacin 3 x 400 mg i.v. 7-8 Tage
+Pseudomonas aeruglnosa Piperacillin/Tazobactam 4 x 4,5 g i.v.
+und (bei schwerem Verlauf)
+Ciprofloxacin 2 x 400 mg i.v.
+LA: Ceftazidim 3 x 2g i.v.
+(und evtl. Ciprofloxacin 3x400 mg i.v.)
+SA: Ciprofloxacin 3 x 400 mg i.v.
+7-10 Tage
+Stenotrophomonas maltophilia Co-trimoxazol 2-3 x 960mg i.v. 7-8 Tage
+11
